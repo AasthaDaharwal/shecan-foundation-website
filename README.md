@@ -14,3 +14,5 @@ A responsive landing page created for the She Can Foundation Internship Selectio
 - HTML
 - CSS
 - JavaScript
+
+![Image alt](She Can Foundation and 2 more pages - Person 1 - Microsoft​ Edge 04-06-2026 13_27_54.png)
